@@ -1,5 +1,7 @@
 # @ergolabs/default-token-list
 
+[![Tests](https://github.com/ergolabs/default-token-list/workflows/Tests/badge.svg)](https://github.com/ergolabs/default-token-list/actions?query=workflow%3ATests)
+
 This package includes a JSON schema for token lists, and contains the default token list and token logos used in the ErgoDEX interface
 
 ## JSON Schema
