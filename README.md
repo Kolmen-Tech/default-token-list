@@ -27,7 +27,7 @@ Note filing an issue does not guarantee addition to this default token list. We 
 ## Adding a logo
 We add all token logos that meet simple requirements.  
 Follow the steps below to add a logo:
-1. Add your logo to a specific folder depending on the token network;
+1. Add your logo to a specific folder in `src/logos/*` depending on the token network;
 2. Create a pull request to the `master` branch.
 
 ### Requirements for logos  
