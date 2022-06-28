@@ -1,7 +1,7 @@
 const {version} = require('../package.json')
 const Ajv = require('ajv').default;
 const addFormats = require('ajv-formats').default;
-const schema = require('../tokenlist.schema.json');
+const schema = require('../src/schema/tokenlist.schema.json');
 const { expect } = require('chai');
 const buildList = require('../src/buildList.js');
 
