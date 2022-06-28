@@ -15,6 +15,7 @@ assignees: ''
 Network:  
 Project Name:  
 Link to explorer:  
+URI to token's logo:  
 Token Name:  
 Token Decimals:  
 

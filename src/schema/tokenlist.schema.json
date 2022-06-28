@@ -234,7 +234,7 @@
               "description": "The checksummed policyID of the token on the Cardano network + assetName",
               "pattern": "^[0-9a-fA-F]{56}\\.[\\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+$",
               "examples": [
-                "82008200581c0df8c58f2bf3d5ae85661eedd124e36b4a4ac65221a8cbb7b7a9d228.testTokenA"
+                "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587.AADA"
               ]
             }
           ]
