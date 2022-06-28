@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/ergolabs/default-token-list/workflows/Tests/badge.svg)](https://github.com/ergolabs/default-token-list/actions?query=workflow%3ATests)
 
-This package includes a JSON schema for token lists, and contains the default token list and token logos used in the ErgoDEX interface
+This package includes a JSON schema for token lists and the default token list used in the ErgoDEX interface
 
 ## JSON Schema
 The JSON schema represents the technical specification for a token list which can be used in a cross-chain dApp interface, such as the ErgoDEX Interface.
@@ -25,14 +25,3 @@ To request we add a token file a [Token Request issue](https://github.com/ergola
 
 ### Disclaimer
 Note filing an issue does not guarantee addition to this default token list. We do not review token addition requests in any particular order, and we do not guarantee that we will review your request to add the token to the default list.
-
-## Adding a logo
-We add all token logos that meet simple requirements.  
-Follow the steps below to add a logo:
-1. Add your logo to a specific folder in `src/logos/*` depending on the token network;
-2. Create a pull request to the `master` branch.
-
-### Requirements for logos  
-- SVG or PNG
-- Size 64x64
-- If you use PNG, remove white background
