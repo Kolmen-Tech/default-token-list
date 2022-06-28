@@ -12,7 +12,7 @@ This repo includes a version field (in package.json), which follows [semantic ve
 
 List versions must follow the rules:
 
-- Increment major version when tokens are removed or if you've updated tokenlist.schema.json file;
+- Increment major version when tokens are removed or if you've updated the `tokenlist.schema.json` file;
 - Increment minor version when tokens are added;
 - Increment patch version when tokens already on the list have minor details changed (name, ticker, logo URL, decimals).
 
