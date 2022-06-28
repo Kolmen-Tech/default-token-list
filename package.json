@@ -1,8 +1,18 @@
 {
-  "name": "sf-default-token-list",
+  "name": "default-token-list",
   "version": "1.0.0",
-  "description": "Spectrum Finance default token list. A storage of pre-verified tokens",
+  "description": "ErgoDEX default token list. A storage of pre-verified tokens",
   "main": "index.js",
-  "author": "SpectrumLabs",
-  "license": "MIT"
+  "author": "ErgoDEX",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "ajv": "^8.11.0",
+    "ajv-formats": "^2.1.1",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
 }
