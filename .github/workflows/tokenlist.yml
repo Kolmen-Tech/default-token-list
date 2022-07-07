@@ -12,7 +12,6 @@ jobs:
       - name: Push
         # uses: garygrossgarten/github-action-scp@release
         run: |
-          pwd;
           ls -al; 
         # with:
         #   local: /home/runner/build
