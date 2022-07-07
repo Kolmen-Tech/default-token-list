@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Push
-        uses: garygrossgarten/github-action-scp@release
+        # uses: garygrossgarten/github-action-scp@release
         run: |
           pwd;
           ls -al; 
