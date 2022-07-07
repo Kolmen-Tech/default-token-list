@@ -1,0 +1,22 @@
+name: Release token list
+on:
+  push:
+    branches:
+      #- "master" uncomment and delete below after tests
+      - "CU-3026qbd"
+jobs:
+  release:
+    name: Push default token list
+    runs-on: ubuntu-latest
+    steps:
+      - name: Push
+        uses: garygrossgarten/github-action-scp@release
+        run: |
+          pwd;
+          ls -al; 
+        # with:
+        #   local: /home/runner/build
+        #   remote: /var/www/tokenlist
+        #   host: ${{ secrets.HOST }}
+        #   username: ${{ secrets.USERNAME }}
+        #   privateKey: ${{ secrets.KEY }}
