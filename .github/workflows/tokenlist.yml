@@ -9,10 +9,15 @@ jobs:
     name: Push default token list
     runs-on: ubuntu-latest
     steps:
+      - name: load repo
+        uses: actions/checkout@v3
+
       - name: Push
         # uses: garygrossgarten/github-action-scp@release
         run: |
-          cat default-token-list.json
+          pwd;
+          ls -al;
+          cat default-token-list.json;
         # with:
         #   local: /home/runner/build
         #   remote: /var/www/tokenlist
