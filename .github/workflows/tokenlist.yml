@@ -12,7 +12,7 @@ jobs:
       - name: Push
         # uses: garygrossgarten/github-action-scp@release
         run: |
-          ls -al 
+          cat default-token-list.json
         # with:
         #   local: /home/runner/build
         #   remote: /var/www/tokenlist
