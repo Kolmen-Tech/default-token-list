@@ -10,6 +10,13 @@ jobs:
     steps:
       - name: load repo
         uses: actions/checkout@v3
+      - name: build
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+        run: |
+          yarn install --frozen-lockfile
+          yarn build
       - name: Push
         uses: garygrossgarten/github-action-scp@release
         with:
