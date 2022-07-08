@@ -2,8 +2,7 @@ name: Release token list
 on:
   push:
     branches:
-      #- "master" uncomment and delete below after tests
-      - "CU-3026qbd"
+      - "master"
 jobs:
   release:
     name: Push default token list
