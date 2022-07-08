@@ -1,0 +1,20 @@
+name: Release token list
+on:
+  push:
+    branches:
+      - "master"
+jobs:
+  release:
+    name: Push default token list
+    runs-on: ubuntu-latest
+    steps:
+      - name: load repo
+        uses: actions/checkout@v3
+      - name: Push
+        uses: garygrossgarten/github-action-scp@release
+        with:
+          local: default-token-list.json
+          remote: /var/www/tokenlist/default-token-list.json
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          privateKey: ${{ secrets.KEY }}
