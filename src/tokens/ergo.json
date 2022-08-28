@@ -56,6 +56,13 @@
       "name": "ErgoGames.io",
       "ticker": "EGIO",
       "logoURI": "https://i.ibb.co/rM43NVy/EGIO.png"
+    },
+    {
+      "address": "00bd762484086cf560d3127eb53f0769d76244d9737636b2699d55c56cd470bf",
+      "decimals": 4,
+      "name": "ErgoPOS",
+      "ticker": "EPOS",
+      "logoURI": "https://ergopos.io/upload/ergoposlogo.png"
     }
   ]
 }
