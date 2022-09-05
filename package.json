@@ -1,6 +1,6 @@
 {
   "name": "default-token-list",
-  "version": "1.3.1",
+  "version": "1.4.1",
   "description": "ErgoDEX default token list. A storage of pre-verified tokens",
   "main": "index.js",
   "author": "ErgoDEX",
