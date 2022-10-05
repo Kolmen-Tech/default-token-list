@@ -70,6 +70,13 @@
       "name": "Ogre",
       "ticker": "ogre",
       "logoURI": "https://ogre-token.web.app/assets/ogre.png"
+    },
+    {
+      "address": "e8b20745ee9d18817305f32eb21015831a48f02d40980de6e849f886dca7f807",
+      "decimals": 8,
+      "name": "Flux",
+      "ticker": "FLUX",
+      "logoURI": "https://raw.githubusercontent.com/RunOnFlux/press/master/Flux_Asset_SVG/Flux%20Logo/Symbol/Round%20Symbol/SVG/Flux_symbol_blue-white.svg"
     }
   ]
 }
