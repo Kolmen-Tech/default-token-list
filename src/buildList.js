@@ -20,7 +20,7 @@ module.exports = function buildTokenList() {
     const parsedVersion = version.split('.');
 
     return {
-        name: 'ErgoDEX Tokens',
+        name: 'SF Tokens',
         timestamp: new Date().toISOString(),
         version: {
             major: +parsedVersion[0],
@@ -28,7 +28,7 @@ module.exports = function buildTokenList() {
             patch: +parsedVersion[2],
         },
         tags: {},
-        keywords: ['ergodex', 'tokes', 'default'],
+        keywords: ['spectrum finance', 'tokens', 'default'],
         tokens: [...enrichTokens(ergo), ...enrichTokens(cardano)],
     };
 }
