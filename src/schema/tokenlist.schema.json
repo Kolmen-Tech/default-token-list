@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://ergodex.io/tokenlist.schema.json",
-  "title": "ErgoDEX Token List",
-  "description": "Schema for lists of tokens compatible with the ErgoDEX Interface",
+  "$id": "https://spectrum.io/tokenlist.schema.json",
+  "title": "Spectrum Finance Token List",
+  "description": "Schema for lists of tokens compatible with the Spectrum Finance Interface",
   "definitions": {
     "Version": {
       "type": "object",
