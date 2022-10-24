@@ -20,7 +20,7 @@ List versions must follow the rules:
 
 Changing a token address or chain ID is considered both a remove and an add, and should be a major version update.
 
-The latest version of ErgoDEX default token list stores [here](https://ergodex.io/default-token-list.json).
+The latest version of Spectrum Finance default token list stores [here](https://spectrum.fi/default-token-list.json).
 
 ## Adding a token
 To request we add a token file a [Token Request issue](https://github.com/spectrum-finance/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_TICKER%7D%3A+%7BPROJECT_NAME%7D).
