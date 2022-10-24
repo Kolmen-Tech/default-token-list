@@ -5,7 +5,7 @@
 This package includes a JSON schema for token lists and the default token list used in the Spectrum Finance interface
 
 ## JSON Schema
-The JSON schema represents the technical specification for a token list which can be used in a cross-chain dApp interface, such as the ErgoDEX Interface.
+The JSON schema represents the technical specification for a token list which can be used in a cross-chain dApp interface, such as the Spectrum Finance Interface.
 
 The JSON schema ID is https://spectrum.fi/tokenlist.schema.json
 
