@@ -77,6 +77,13 @@
       "name": "Flux",
       "ticker": "FLUX",
       "logoURI": "https://raw.githubusercontent.com/RunOnFlux/press/master/Flux_Asset_SVG/Flux%20Logo/Symbol/Round%20Symbol/SVG/Flux_symbol_blue-white.svg"
+    },
+    {
+      "address": "59ee24951ce668f0ed32bdb2e2e5731b6c36128748a3b23c28407c5f8ccbf0f6",
+      "decimals": 0,
+      "name": "Walrus DAO",
+      "ticker": "WALRUS",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmZkB935jDaHrBnCtzSAiX8zgt9LaxGcLtLSQfYs2tCqbB"
     }
   ]
 }
