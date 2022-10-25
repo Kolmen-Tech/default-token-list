@@ -84,6 +84,13 @@
       "name": "Walrus DAO",
       "ticker": "WALRUS",
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmZkB935jDaHrBnCtzSAiX8zgt9LaxGcLtLSQfYs2tCqbB"
+    },
+    {
+      "address": "18c938e1924fc3eadc266e75ec02d81fe73b56e4e9f4e268dffffcb30387c42d",
+      "decimals": 4,
+      "name": "Auction House",
+      "ticker": "AHT",
+      "logoURI": "https://ipfs.io/ipfs/bafkreifehzky75luj77t75kn757bshlvpxo24ith26dexkkmbw3hkx247y"
     }
   ]
 }
