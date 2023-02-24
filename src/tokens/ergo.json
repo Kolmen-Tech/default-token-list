@@ -104,6 +104,12 @@
       "decimals": 6,
       "name": "Spectrum Finance",
       "ticker": "SPF"
+    },
+    {
+      "address": "089990451bb430f05a85f4ef3bcb6ebf852b3d6ee68d86d78658b9ccef20074f",
+      "decimals": 6,
+      "name": "duckpools",
+      "ticker": "QUACKS"
     }
   ]
 }
