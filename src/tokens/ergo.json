@@ -110,6 +110,13 @@
       "decimals": 6,
       "name": "duckpools",
       "ticker": "QUACKS"
+    },
+    {
+      "address": "01ddcc3d0205c2da8a067ffe047a2ccfc3e8241bc3fcc6f6ebc96b7f7363bb36",
+      "decimals": 6,
+      "name": "ProxiesNFT",
+      "ticker": "$PROXIE",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmZn2uqqSG6CvJB2s3Qz22FrnfEqFVCMePb5m72ySxzgs6"
     }
   ]
 }
