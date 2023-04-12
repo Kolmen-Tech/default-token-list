@@ -23,5 +23,5 @@ Link to the official homepage of project/token:
 Links to the official socials of project/token:  
 Link to CoinMarketCap or CoinGecko page of project/token (if exists): 
 
-Initial liquidity (in base blockchain currency): 
+Initial liquidity (in base blockchain currency):  
 Evidence of liquidity (provide any evidence that the token will have liquidity): 
