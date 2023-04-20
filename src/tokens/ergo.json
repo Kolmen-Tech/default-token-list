@@ -60,9 +60,9 @@
     {
       "address": "00bd762484086cf560d3127eb53f0769d76244d9737636b2699d55c56cd470bf",
       "decimals": 4,
-      "name": "ErgoPOS",
+      "name": "TabbyPOS",
       "ticker": "EPOS",
-      "logoURI": "https://ergopos.io/upload/ergoposlogo.png"
+      "logoURI": "https://www.tabbylab.io/upload/tabbyposlogo.png"
     },
     {
       "address": "6de6f46e5c3eca524d938d822e444b924dbffbe02e5d34bd9dcd4bbfe9e85940",
